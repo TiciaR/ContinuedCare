@@ -3,7 +3,11 @@ body {
     margin: 50px;
     position: relative;
 }
-
+/* #aboutmeimg {
+    float: left;
+    /* width: 10px;
+    height: 20px; */
+    
 img {
     width: 200px;
     float: right;
