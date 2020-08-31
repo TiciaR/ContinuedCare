@@ -54,10 +54,10 @@ section {
     border: 1px solid rgba(245, 245, 245, 0.726);
 }
 Footer {
-    background: lightgoldenrodyellow;
+    background: rgb(21, 178, 218);
     margin: 20px 0 0 0;
     border-top: 6px solid lightslategrey;
-    color: thistle;
+    color: red;
 }
 .copyrighttext {
     text-align: center;
@@ -75,7 +75,7 @@ span {
 input, select, textarea {
     width: 100%;
     padding: 12px;
-    border: 1px solid wheat;
+    border: 1px solid black;
     border-radius: 4px;
     box-sizing: border-box;
     margin-top: 6px;
